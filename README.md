@@ -172,13 +172,11 @@ The dashboard consolidates EV registration data into an interactive analytical p
 
 6. Screenshots / Demo
 Dashboard Pages
-📊 Dashboard 1 – EV Overview -
+📊 Dashboard 1 – EV Overview -https://github.com/chentsa/Electric-Vehicle-Registration-Analytics-Dashboard/blob/main/Electric%20Vehicle%20Overview.png
 Displays key KPIs, manufacturer analysis, vehicle type distribution, city-wise registrations, model-year trends, and manufacturer segmentation.
 
-🌍 Dashboard 2 – Geographical Analysis
-
+🌍 Dashboard 2 – Geographical Analysis - https://github.com/chentsa/Electric-Vehicle-Registration-Analytics-Dashboard/blob/main/Electric%20Vehicle%20Ogeogrpahical analysis.png 
 Provides interactive maps, county-wise registration analysis, geographical distribution of EVs, and regional adoption insights.
 
-📈 Dashboard 3 – EV Trends & Advanced Analytics
-
+📈 Dashboard 3 – EV Trends & Advanced Analytics - https://github.com/chentsa/Electric-Vehicle-Registration-Analytics-Dashboard/blob/main/Electric%20Vehicle%20Otrend.png 
 Includes EV registration growth over time, manufacturer ranking analysis, CAFV eligibility breakdown, and year-over-year registration trends.
