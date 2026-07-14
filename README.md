@@ -175,7 +175,7 @@ Dashboard Pages
 📊 Dashboard 1 – EV Overview -https://github.com/chentsa/Electric-Vehicle-Registration-Analytics-Dashboard/blob/main/Electric%20Vehicle%20Overview.png
 Displays key KPIs, manufacturer analysis, vehicle type distribution, city-wise registrations, model-year trends, and manufacturer segmentation.
 
-🌍 Dashboard 2 – Geographical Analysis - https://github.com/chentsa/Electric-Vehicle-Registration-Analytics-Dashboard/blob/main/Electric%20Vehicle%20Ogeogrpahical analysis.png 
+🌍 Dashboard 2 – Geographical Analysis - https://github.com/chentsa/Electric-Vehicle-Registration-Analytics-Dashboard/blob/main/Electric%20Vehicle%20geograhical%20analysis.png
 Provides interactive maps, county-wise registration analysis, geographical distribution of EVs, and regional adoption insights.
 
 📈 Dashboard 3 – EV Trends & Advanced Analytics - https://github.com/chentsa/Electric-Vehicle-Registration-Analytics-Dashboard/blob/main/Electric%20Vehicle%20Otrend.png 
